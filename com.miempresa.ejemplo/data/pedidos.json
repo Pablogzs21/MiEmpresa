@@ -1,0 +1,84 @@
+{
+  "pedidos": [
+    
+    {
+      "pedido": 1,
+      "tipo": "barbacoa",
+      "domicilio": "calle",
+      "precio": 13,
+      "topping": "si"
+    },
+    
+    {
+      "pedido": 3,
+      "tipo": "4 quesos",
+      "domicilio": "camino",
+      "precio": 12,
+      "topping": "no"
+    },
+    
+    {
+      "pedido": 3,
+      "tipo": "pepperoni",
+      "domicilio": "urbanizacion",
+      "precio": 14,
+      "topping": "si"
+    },
+    
+    {
+      "pedido": 4,
+      "tipo": "margarita",
+      "domicilio": "calle",
+      "precio": 10,
+      "topping": "no"
+    },
+    
+    {
+      "pedido": 5,
+      "tipo": "marina",
+      "domicilio": "camino",
+      "precio": 15,
+      "topping": "si"
+    },
+    
+    {
+      "pedido": 6,
+      "tipo": "hawaiana",
+      "domicilio": "urbanizacion",
+      "precio": 11,
+      "topping": "no"
+    },
+    
+    {
+      "pedido": 7,
+      "tipo": "mediterranea",
+      "domicilio": "calle",
+      "precio": 12,
+      "topping": "si"
+    },
+    
+    {
+      "pedido": 8,
+      "tipo": "barbacoa",
+      "domicilio": "urbanizacion",
+      "precio": 13,
+      "topping": "no"
+    },
+    
+    {
+      "pedido": 9,
+      "tipo": "carbonara",
+      "domicilio": "calle",
+      "precio": 12,
+      "topping": "si"
+    },
+    
+    {
+      "pedido": 10,
+      "tipo": "margarita",
+      "domicilio": "camino",
+      "precio": 10,
+      "topping": "no"
+    }
+  ]
+}
