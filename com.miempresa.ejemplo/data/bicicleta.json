@@ -1,0 +1,49 @@
+{
+  "bicycles": [
+    {
+      "brand": "Trek",
+      "model": "Emonda",
+      "type": "Road Bike",
+      "price": 2500,
+      "frameSize": 56,
+      "material": "Carbon Fiber",
+      "gears": 22
+    },
+    {
+      "brand": "Specialized",
+      "model": "Tarmac",
+      "type": "Road Bike",
+      "price": 3000,
+      "frameSize": 54,
+      "material": "Carbon Fiber",
+      "gears": 20
+    },
+    {
+      "brand": "Giant",
+      "model": "Defy",
+      "type": "Road Bike",
+      "price": 2000,
+      "frameSize": 58,
+      "material": "Aluminum",
+      "gears": 18
+    },
+    {
+      "brand": "Cannondale",
+      "model": "Synapse",
+      "type": "Endurance Bike",
+      "price": 1500,
+      "frameSize": 55,
+      "material": "Carbon Fiber",
+      "gears": 16
+    },
+    {
+      "brand": "Santa Cruz",
+      "model": "Tallboy",
+      "type": "Mountain Bike",
+      "price": 3500,
+      "frameSize": 18,
+      "material": "Carbon Fiber",
+      "gears": 12
+    }
+  ]
+}
